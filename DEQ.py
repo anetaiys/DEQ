@@ -3,7 +3,7 @@
 
 	Diffusion Equation Quantification (DEQ)
 
-	This calculation cord provides:
+	This calculation code provides:
 
 	(1) DEQ calculation for input .csv image file (2D array)
 		and output .csv images according to iterations as a list
