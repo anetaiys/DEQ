@@ -1,7 +1,7 @@
-# DEQ
-## Diffusion Equation Quantification
-DEQ is an image processing method according to diffusion equation.
+# DEQ ## Diffusion Equation Quantification
+	DEQ is an image processing tool to quantify 0-1 in the image according to diffusion equation.
 
+## Overview
 # # # # # # # # # # # # # # # # # # # # # # # # #
 """
 
