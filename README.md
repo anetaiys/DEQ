@@ -1,8 +1,9 @@
-# DEQ ## Diffusion Equation Quantification
+# DEQ 
+## Diffusion Equation Quantification
 	DEQ is an image processing tool to quantify 0-1 in the image according to diffusion equation.
 
 ## Overview
-# # # # # # # # # # # # # # # # # # # # # # # # #
+## - - - - - - - - - - - - - -
 """
 
 	Diffusion Equation Quantification (DEQ)
@@ -26,7 +27,8 @@
 
 	This calculation code is licensed under Apache License 2.0 
 
-	(c) Yusuke Anetai
+	(Author) Yusuke Anetai
 
 """
-# # # # # # # # # # # # # # # # # # # # # # # # #
+## Overview
+## - - - - - - - - - - - - - -
