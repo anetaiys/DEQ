@@ -40,8 +40,8 @@
 ### Usage
 ### """""""""
 	Import DEQ and create instance of DEQcalc class in your code.
-	Then start DiffusionEquationQuantificationModule(img1, img2, dx, dy).
-	Input two same shape (rows and columns) .csv image files (img1, img2).
+	Then start DiffusionEquationQuantificationModule(img, dx, dy).
+	Input one .csv image file.
  	Typically, calculation grid size dx and dy are usually 1.0.
 
 ### License
