@@ -4,7 +4,7 @@
 
 ## - - - - - - - - - - - - - - - - - - - - - - - -
 
-Overview
+### Overview
 ### """""""""
 	This calculation code provides:
 
@@ -26,7 +26,7 @@ Overview
 	This calculation code is licensed under Apache License 2.0 
 
 
-Requirement
+### Requirement
 ### """"""""""""
 	numpy
  	csv
@@ -34,22 +34,22 @@ Requirement
 	tkinter
  	numpy
 
-Install
+### Install
 ### """"""""""""
 	No install method.
 
-Usage
+### Usage
 ### """""""""
 	Import DEQ and vreate instance of DEQ class.
 	Then start DiffusionEquationQuantificationModule(img1, img2, dx, dy).
 	Input two same shape (rows and columns) .csv image files (img1, img2).
  	Calculation grid size dx and dy are usually 1.0.
 
-License
+### License
 ### """""""""
 	Apache License 2.0 
 
-Author
+### Author
 ### """""""""
 	Yusuke Anetai
 
