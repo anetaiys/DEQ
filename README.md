@@ -42,7 +42,7 @@
 	Import DEQ and create instance of DEQcalc class in your code.
 	Then start DiffusionEquationQuantificationModule(img, dx, dy).
 	Input one .csv image file.
- 	Typically, calculation grid size dx and dy are usually 1.0.
+ 	Usually, calculation grid size dx and dy are 1.0.
 
 ### License
 ### """""""""
