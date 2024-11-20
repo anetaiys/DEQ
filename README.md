@@ -40,10 +40,10 @@
 
 ### Usage
 ### """""""""
-	Import DEQ and vreate instance of DEQ class.
+	Import DEQ and create instance of DEQ class in your code.
 	Then start DiffusionEquationQuantificationModule(img1, img2, dx, dy).
 	Input two same shape (rows and columns) .csv image files (img1, img2).
- 	Calculation grid size dx and dy are usually 1.0.
+ 	Typically, calculation grid size dx and dy are usually 1.0.
 
 ### License
 ### """""""""
@@ -51,7 +51,8 @@
 
 ### Author
 ### """""""""
-	Yusuke Anetai
+	Yusuke Anetai 
+ 	anetaiys (atmark) hirakata.kmu.ac.jp
 
  
   	
