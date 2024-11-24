@@ -9,7 +9,7 @@
 	This calculation code provides:
 
 	(1) DEQ calculation for input .csv image file (2D array)
-		and output .csv images according to iterations as a list
+		 and output .csv images according to iterations as a list
 
 	(2) Filter functions (DEQ_Filter_Function) are defined
 		However, in the DEQ filter function, users can artbitrary 
@@ -19,7 +19,7 @@
 		
 		Diffusion equation quantification: selective enhancement algorithm
 		for bone metastasis lesions in CT images
-		(doi: xxxxxxxxx)
+		(doi: 10.1088/1361-6560/ad965c)
 	
 	and include the reference.
 
