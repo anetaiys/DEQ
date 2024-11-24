@@ -16,7 +16,7 @@
 		
 		Diffusion equation quantification: selective enhancement algorithm
 		for bone metastasis lesions in CT images
-		(doi: xxxxxxxxx)
+		(doi: 10.1088/1361-6560/ad965c)
 	
 	and include the reference.
 
